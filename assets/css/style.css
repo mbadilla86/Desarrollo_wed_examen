@@ -1,0 +1,9 @@
+.card{
+    background-color: #00CED1;
+    width: 75%;
+    min-height: 15vw;
+    object-fit: cover;
+}
+body{
+    background-color:black;
+}
